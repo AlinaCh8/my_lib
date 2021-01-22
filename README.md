@@ -7,7 +7,7 @@
 - [Материалы по машинному обучению](https://github.com/demidovakatya/vvedenie-mashinnoe-obuchenie)
 - [Материалы по компьютерному зрению](https://szeliski.org/Book/)
 - [Книга Computer Vision: Algorithms and Applications](https://www.dropbox.com/sh/88qvr1z7fpfx1tv/AAB4Ia3yEMuZ4WSzNWB5acTta?dl=0&preview=SzeliskiBookDraft_20210121.pdf) - Richard Szeliski (2021)
-- [Курс "Deep Learning for Computer Vision"(https://www.youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r)
+- [Курс "Deep Learning for Computer Vision"](https://www.youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r)
 - [OpenCV-Python Tutorials](https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_tutorials.html)
 - [TensorFlow Tutorials](https://www.tensorflow.org/tutorials)
-- [Лекции Стенфордского курса] (https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv
+- [Лекции Стенфордского курса](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv
